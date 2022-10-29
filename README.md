@@ -1,6 +1,4 @@
-## 👋 Hi, I’m @jericepon
-
-
+## 👋 Hi, I’m @jericepon Front End Developer from Philippines <img src="https://user-images.githubusercontent.com/22068429/198821404-68dac20c-add3-403d-ab31-304ee25e4ad7.png" width="25">
 <!---
 - 👋 Hi, I’m @jericepon
 - 👀 I’m interested in ...

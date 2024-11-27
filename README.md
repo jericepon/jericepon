@@ -1,4 +1,5 @@
-## 👋 Hi, I’m @jericepon Front End Developer from Philippines <img src="https://user-images.githubusercontent.com/22068429/198821404-68dac20c-add3-403d-ab31-304ee25e4ad7.png" width="25">
+
+I’m not just a developer—I’m a problem-solver armed with an arsenal of JavaScript frameworks and a passion for pixel-perfect design. Whether starting from scratch or untangling legacy spaghetti code, I craft scalable, maintainable, and downright impressive frontends. With over 7 years of transforming complex ideas into sleek, user-friendly experiences, I’ve built everything from dynamic web apps to responsive websites that shine on any device—be it a high-end monitor or your grandma’s trusty flip phone. Bugs? I keep them minimal, manageable, and occasionally entertaining enough to earn a chuckle in the changelog.
 
 <!---
 - 👋 Hi, I’m @jericepon

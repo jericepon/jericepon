@@ -1,6 +1,5 @@
 
-I’m not just a developer—I’m a problem-solver armed with an arsenal of JavaScript frameworks and a passion for pixel-perfect design. Whether starting from scratch or untangling legacy spaghetti code, I craft scalable, maintainable, and downright impressive frontends. With over 7 years of transforming complex ideas into sleek, user-friendly experiences, I’ve built everything from dynamic web apps to responsive websites that shine on any device—be it a high-end monitor or your grandma’s trusty flip phone. Bugs? I keep them minimal, manageable, and occasionally entertaining enough to earn a chuckle in the changelog.
-
+I write code for the web.
 <!---
 - 👋 Hi, I’m @jericepon
 - 👀 I’m interested in ...
